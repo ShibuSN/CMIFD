@@ -2,7 +2,7 @@
 clc;
 clear;
 close all;
-addpath('/home/shibuzzz/Downloads/vlfeat-0.9.21-bin/vlfeat-0.9.21/toolbox');
+addpath('/vlfeat-0.9.21-bin/vlfeat-0.9.21/toolbox');
 vl_setup; 
 show=1;
 color=[64,0,128];
